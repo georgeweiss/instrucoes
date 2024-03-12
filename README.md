@@ -14,5 +14,3 @@
 * Para o configurar o e-mail, digite: git config user.name georgeweiss88@gmail.com
 * Clique novamente em Commit
 * Vá nos ... e clique em "Push".
-
-boa tarde
